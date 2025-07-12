@@ -1,0 +1,3 @@
+# 🔥 Spidr AirFryer Pro Max - Interest Form
+
+A revolutionary air fryer interest form built with React...
